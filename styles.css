@@ -5,6 +5,10 @@
 	align-items: center:
 }
 
+.media-icons {
+	display: flex;
+}
+
 .img-1 {
 	width: 40px;
 }
